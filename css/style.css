@@ -12,6 +12,14 @@
     top: 50px;
 }
 
+a {
+    text-decoration: none;
+    color: blue;
+
+}
+
+
+
 .linea {
     background-color: yellow;
 }
