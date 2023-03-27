@@ -1,0 +1,13 @@
+.sfondo {
+    height: 130px;
+    background-image: url(../img/pattern.png);
+    background-color: rgb(78, 160, 255);
+    background-size: 500px 250px;
+    position: relative;
+}
+
+.resize {
+    width: 250px;
+    position: absolute;
+    top: 50px;
+}
